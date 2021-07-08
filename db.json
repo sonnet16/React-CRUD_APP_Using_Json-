@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Shaharuk Ahamad Sonnet",
+      "username": "shaharuk",
+      "email": "shaharuk.ahmad.cse@gmail.com",
+      "phone": "01791821795",
+      "id": 11
+    },
+    {
+      "name": "Akash",
+      "username": "akash",
+      "email": "akash@gmail.com",
+      "phone": "01001010012",
+      "id": 12
+    }
+  ]
+}
