@@ -1,8 +1,10 @@
-##Sample
-![login](https://user-images.githubusercontent.com/54410440/124971960-9f9d7e80-e04b-11eb-8bf0-56b97a7f7a34.PNG)
-![logout](https://user-images.githubusercontent.com/54410440/124971996-a62bf600-e04b-11eb-9aa2-691efe77561a.PNG)
-![forgotPassword](https://user-images.githubusercontent.com/54410440/124972018-b04df480-e04b-11eb-8ae2-24b4208d845d.PNG)
-![reset2](https://user-images.githubusercontent.com/54410440/124972038-b5ab3f00-e04b-11eb-9e23-3e158740dddc.PNG)
+## Sample
+![home](https://user-images.githubusercontent.com/54410440/124974451-a24da300-e04e-11eb-9fc5-8e38bd95b8e5.PNG)
+![about](https://user-images.githubusercontent.com/54410440/124974453-a24da300-e04e-11eb-8e2d-b5dad711490b.PNG)
+![add](https://user-images.githubusercontent.com/54410440/124974452-a24da300-e04e-11eb-8f67-4809decf608e.PNG)
+![edit](https://user-images.githubusercontent.com/54410440/124974454-a2e63980-e04e-11eb-9dc5-ad74b122863c.PNG)
+![view](https://user-images.githubusercontent.com/54410440/124974465-a5e12a00-e04e-11eb-98d6-38b3d37010a4.PNG)
+
 
 
 # Getting Started with Create React App
